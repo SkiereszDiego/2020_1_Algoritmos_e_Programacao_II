@@ -4,4 +4,5 @@
 ### Atividades realizadas 
 
 - [X] Atividade 01
+- [X] Atividade fixacao herancas
 
