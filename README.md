@@ -5,4 +5,6 @@
 
 - [X] Atividade 01
 - [X] Atividade fixacao herancas
+- [X] Polimorfismo
+- [] Encapsulamento
 
